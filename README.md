@@ -30,7 +30,7 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 ## Configuration
 
 - [Install Klipper (Kiauh)](https://github.com/dw-0/kiauh)
-- [CanBus]()
+- [CanBus](https://github.com/EricZimmerman/VoronTools/blob/main/EBB_CAN.md)
 
 ## Electronics
 
