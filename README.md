@@ -67,7 +67,7 @@ Connection diagram to reuse the original FFC and adapt it to the new MCU with a 
 
 ### Pins 23 to 28 are used for Load cell but I have not yet completed the working connection configuration
 
-now I discovered the original connections between the board (load cell -> FFC -> Main board).
+now I discovered the original connections between the boards (load cell -> FFC -> Main board).
 The load cell board uses the HX711 chip for strain gauges and a STC8G MCU for management and communication.
 As soon as I have time I need to understand how and what to communicate with it.
 
