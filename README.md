@@ -15,6 +15,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 -  [Raspberry Pi 3 Model B (1Gb)](https://s.click.aliexpress.com/e/_olvGKEN) SBC CPU Core
 -  [Micro SD 64gb v30](https://s.click.aliexpress.com/e/_ooCZ32p) OS Memory (32gb v30 is also fine)
 -  [Self-tapping M2.6 14mm](https://s.click.aliexpress.com/e/_oBh7XHr) Fixing screws
+-  [Micro Molex 2x2](https://s.click.aliexpress.com/e/_olB1evL) to adapt EBB36
 -  [Cable 22awg](https://s.click.aliexpress.com/e/_oD4gPCd) any extensions
 -  [JST Crimping tool](https://s.click.aliexpress.com/e/_op3xPZP)
 -  PETG 50g for adapters
@@ -40,3 +41,11 @@ Connection diagram to reuse the original FFC and adapt it to the new MCU with a 
 ![](IMG/breakout_ph.jpg)
 
 ### Pins 23 to 28 are used for Load cell but I have not yet completed the working connection configuration
+
+## Heat Bed wiring
+
+For the assembly of the Head_board requires a modification to the original Micro molex 2x2 connector of the ebb36. otherwise it will hit the back of the printer
+
+![](IMG/head_comp_ph.jpg)
+![](IMG/micromolex.jpg)
+![](IMG/head_ph.jpg)
