@@ -34,7 +34,7 @@ The rest of the components can be found in the U2C and EBB32 packages, such as J
 
 ## Heat Bed wiring
 
-Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout FPC 30p (1mm)
+Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout 30p (1mm)
 
 ![](IMG/breakout_bed.png)
 ![](IMG/breakout_ph.jpg)
