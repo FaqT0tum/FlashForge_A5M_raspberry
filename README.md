@@ -32,10 +32,9 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 - [Klipper](https://github.com/dw-0/kiauh)
 - [CanBus]()
 
-<details>
-
 ## Electronics
 
+<details>
 <summary>3D Printing Display</summary>
 
 ![](IMG/sbc_adapt.png)
@@ -43,7 +42,9 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 
 </details>
 
-## Heat Bed wiring
+
+<details>
+<summary>Heat Bed Wiring</summary>
 
 Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout 30p (1mm)
 
@@ -67,8 +68,11 @@ As soon as I have time I need to understand how and what to communicate with it.
 
 the MCU on the original board (N32G455) is a clone of the STM32F103xE
 
+</details>
 
-## HeadTool Board
+<details>
+
+<summaryHeadTool board</summary>
 
 For the assembly of the Head_board requires a modification to the original Micro molex 2x2 connector of the ebb36. otherwise it will hit the back of the printer
 
@@ -76,4 +80,6 @@ For the assembly of the Head_board requires a modification to the original Micro
 ![](IMG/micromolex.jpg)
 ![](IMG/head_ph.jpg)
 ![](IMG/endstop_wiring.png)
+
+</details>
 
