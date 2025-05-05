@@ -42,6 +42,22 @@ Connection diagram to reuse the original FFC and adapt it to the new MCU with a 
 
 ### Pins 23 to 28 are used for Load cell but I have not yet completed the working connection configuration
 
+now I just discovered the original connections between the board (load cell -> FFC -> Main board).
+The load cell board uses the HX711 chip for strain gauges and a STC8G MCU for management and communication.
+As soon as I have time I need to understand how and what to communicate with it.
+
+
+| STC8G  | FPC | N32G455 | 
+|:---:| :---:  | :---: | 
+| 1   | IO-2   | PB3   | 
+| 3   | IO-1   | PB4   |  
+| 5   | M3-TX  | PC12  | 
+| 6   | M3-RX  | PD2   |  
+
+
+the MCU on the original board (N32G455) is a clone of the STM32F103xE
+
+
 ## Heat Bed wiring
 
 For the assembly of the Head_board requires a modification to the original Micro molex 2x2 connector of the ebb36. otherwise it will hit the back of the printer
