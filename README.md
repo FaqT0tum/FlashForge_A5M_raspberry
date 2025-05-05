@@ -22,7 +22,6 @@ The project will aim to completely replace all the electronics, leaving the orig
 -  [JST Crimping tool](https://s.click.aliexpress.com/e/_op3xPZP)
 -  PETG 50g for adapters board
 
-The rest of the components can be found in the U2C and EBB36 packages, such as JST connectors
 
 ## Softwares
 - [Raspberry PI Imager](https://www.raspberrypi.com/software/) Make File system
@@ -100,3 +99,5 @@ otherwise it will hit the back of the printer
 
 </details>
 
+
+The head cap will also be recreated to make it safer and more aesthetically beautiful
