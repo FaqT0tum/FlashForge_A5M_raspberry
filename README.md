@@ -31,3 +31,6 @@ The rest of the components can be found in the U2C and EBB32 packages, such as J
 
 ![](IMG/sbc_adapt.png)
 ![](IMG/ebb36_adapt.png)
+
+
+![](IMG/Breakout_bed.png)
