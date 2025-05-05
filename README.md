@@ -34,6 +34,8 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 - [Install Klipper (Kiauh)](https://github.com/dw-0/kiauh)
 - [CanBus](https://github.com/EricZimmerman/VoronTools/blob/main/EBB_CAN.md)
 
+the head cap will also be recreated to make it safer and more aesthetically beautiful
+
 ## Electronics
 
 <details>
