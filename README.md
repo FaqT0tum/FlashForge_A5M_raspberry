@@ -66,3 +66,8 @@ For the assembly of the Head_board requires a modification to the original Micro
 ![](IMG/micromolex.jpg)
 ![](IMG/head_ph.jpg)
 ![](IMG/endstop_wiring.png)
+
+## Configuration
+
+- [KLipper](https://github.com/dw-0/kiauh)
+- [CanBus]()
