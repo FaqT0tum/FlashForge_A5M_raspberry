@@ -18,7 +18,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 -  [Micro Molex 2x2](https://s.click.aliexpress.com/e/_olB1evL) to adapt EBB36
 -  [Cable 22awg](https://s.click.aliexpress.com/e/_oD4gPCd) any extensions
 -  [JST Crimping tool](https://s.click.aliexpress.com/e/_op3xPZP)
--  PETG 50g for adapters
+-  PETG 50g for adapters board
 
 The rest of the components can be found in the U2C and EBB36 packages, such as JST connectors
 
@@ -37,6 +37,7 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 <details>
 <summary>3D Printing Display</summary>
 
+
 ![](IMG/sbc_adapt.png)
 ![](IMG/ebb36_adapt.png)
 
@@ -44,7 +45,18 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 
 
 <details>
+<summary>Filament runout</summary>
+
+
+![](IMG/fil_sens_ph.jpg)
+
+</details>
+
+
+
+<details>
 <summary>Heat Bed Wiring</summary>
+
 
 Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout 30p (1mm)
 
@@ -72,6 +84,7 @@ the MCU on the original board (N32G455) is a clone of the STM32F103xE
 
 <details>
 <summary>Headtool board</summary>
+
 
 For the assembly of the Head_board requires a modification to the original Micro molex 2x2 connector of the ebb36. otherwise it will hit the back of the printer
 
