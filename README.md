@@ -18,7 +18,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 -  [Micro SD 64gb v30](https://s.click.aliexpress.com/e/_ooCZ32p) OS Memory (32gb v30 is also fine)
 -  [Self-tapping M2.6 14mm](https://s.click.aliexpress.com/e/_oBh7XHr) Fixing screws
 -  [Cable 22awg](https://s.click.aliexpress.com/e/_oD4gPCd) any extensions
--  [JST crimping tool]([https://s.click.aliexpress.com/e/_oD4gPCd](https://s.click.aliexpress.com/e/_op3xPZP)) 
+-  [JST crimping tool]([https://s.click.aliexpress.com/e/_oD4gPCd](https://s.click.aliexpress.com/e/_op3xPZP) 
 -  PETG 50g for adapters
 
 The rest of the components can be found in the U2C and EBB32 packages, such as JST connectors
