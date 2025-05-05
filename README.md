@@ -32,9 +32,9 @@ The rest of the components can be found in the U2C and EBB32 packages, such as J
 ![](IMG/sbc_adapt.png)
 ![](IMG/ebb36_adapt.png)
 
-## 3D Printing
+## Heat Bed wiring
 
-Connection diagram to reuse the original FFC and adapt it to the new MCU
+Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout FPC 30p (1mm)
 
 ![](IMG/breakout_bed.png)
 
