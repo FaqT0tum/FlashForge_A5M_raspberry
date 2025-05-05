@@ -100,4 +100,4 @@ otherwise it will hit the back of the printer
 </details>
 
 
-The head cap will also be recreated to make it safer and more aesthetically beautiful
+The head cap will also be recreated to make it safer and more aesthetically 
