@@ -1,6 +1,7 @@
 # In development
 
 ![](IMG/main_ph.jpg){: style="height:83px"}
+![Elements](IMG/main_ph.jpg){: style="height:83px"}
 ![](IMG/head_pph.jpg){: style="height:83px"}
 
 The project will aim to completely replace all the electronics, leaving the original PSU, BED and head components.
