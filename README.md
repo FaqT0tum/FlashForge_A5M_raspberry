@@ -34,12 +34,14 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 
 <details>
 
+## Electronics
+
 <summary>3D Printing Display</summary>
 
 ![](IMG/sbc_adapt.png)
 ![](IMG/ebb36_adapt.png)
 
-<details/>
+</details>
 
 ## Heat Bed wiring
 
