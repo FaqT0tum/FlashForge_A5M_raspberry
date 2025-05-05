@@ -32,11 +32,14 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 - [Klipper](https://github.com/dw-0/kiauh)
 - [CanBus]()
 
+<details>
 
-## 3D Printing
+<summary>3D Printing Display</summary>
 
 ![](IMG/sbc_adapt.png)
 ![](IMG/ebb36_adapt.png)
+
+<details/>
 
 ## Heat Bed wiring
 
