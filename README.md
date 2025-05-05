@@ -58,10 +58,11 @@ As soon as I have time I need to understand how and what to communicate with it.
 the MCU on the original board (N32G455) is a clone of the STM32F103xE
 
 
-## Heat Bed wiring
+## HeadTool Board
 
 For the assembly of the Head_board requires a modification to the original Micro molex 2x2 connector of the ebb36. otherwise it will hit the back of the printer
 
 ![](IMG/head_comp_ph.jpg)
 ![](IMG/micromolex.jpg)
 ![](IMG/head_ph.jpg)
+![](IMG/endstop_wiring.png)
