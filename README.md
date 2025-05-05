@@ -20,11 +20,11 @@ The project will aim to completely replace all the electronics, leaving the orig
 -  [JST Crimping tool](https://s.click.aliexpress.com/e/_op3xPZP)
 -  PETG 50g for adapters
 
-The rest of the components can be found in the U2C and EBB32 packages, such as JST connectors
+The rest of the components can be found in the U2C and EBB36 packages, such as JST connectors
 
 ## Softwares
 - [Raspberry PI Imager](https://www.raspberrypi.com/software/) Make File system
-- [STM32 CubeProg](https://www.st.com/en/development-tools/stm32cubeprog.html) Flashing U2C/EBB32
+- [STM32 CubeProg](https://www.st.com/en/development-tools/stm32cubeprog.html) Flashing U2C/EBB36
 - [Bitvise](https://bitvise.com/download-area) SSH for communicate with the Raspberry
 
 
