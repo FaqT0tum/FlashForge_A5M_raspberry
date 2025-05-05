@@ -27,6 +27,11 @@ The rest of the components can be found in the U2C and EBB36 packages, such as J
 - [STM32 CubeProg](https://www.st.com/en/development-tools/stm32cubeprog.html) Flashing U2C/EBB36
 - [Bitvise](https://bitvise.com/download-area) SSH for communicate with the Raspberry
 
+## Configuration
+
+- [KLipper](https://github.com/dw-0/kiauh)
+- [CanBus]()
+
 
 ## 3D Printing
 
@@ -67,7 +72,3 @@ For the assembly of the Head_board requires a modification to the original Micro
 ![](IMG/head_ph.jpg)
 ![](IMG/endstop_wiring.png)
 
-## Configuration
-
-- [KLipper](https://github.com/dw-0/kiauh)
-- [CanBus]()
