@@ -94,14 +94,14 @@ very simply, just connect the cables like this:
 
 In my setup I connected everything to the JST x-stop of the SKR Pico using the reverse gpio4 pin (!)
 
-''' bash
-[probe]
-pin: gpio22
-z_offset: -0.25
-speed: 2
-lift_speed: 5
-samples: 1
-'''
+```bash
+    [probe]
+    pin: gpio22
+    z_offset: -0.25
+    speed: 2
+    lift_speed: 5
+    samples: 1
+```
 
 
 </details>
