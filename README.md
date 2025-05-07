@@ -83,7 +83,7 @@ As soon as I have time I need to understand how and what to communicate with it.
 
 the MCU on the original board (N32G455) is a clone of the STM32F103xE
 
-###UPDATE: I was able to use the load cell system as a probe but without all the cell auto-calibration system without rebooting the board.
+### UPDATE: I was able to use the load cell system as a probe but without all the cell auto-calibration system without rebooting the board.
 very simply, just connect the cables like this:
 
 | FPC  | MCU |  
@@ -94,7 +94,7 @@ very simply, just connect the cables like this:
 
 In my setup I connected everything to the JST x-stop of the SKR Pico using the reverse gpio4 pin (!)
 
-'''
+'''bash
 #[probe]
 #pin: gpio22
 #z_offset: -0.25
