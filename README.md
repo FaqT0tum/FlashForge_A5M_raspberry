@@ -66,6 +66,8 @@ Connection diagram to reuse the original FFC and adapt it to the new MCU with a 
 ![](IMG/breakout_bed.png)
 ![](IMG/breakout_ph.jpg)
 
+### Pins 23 to 28 are used for Load cell
+
 ### UPDATE: I was able to use the load cell system as a probe but without all the cell auto-calibration system without rebooting the board.
 very simply, just connect the cables like this:
 
