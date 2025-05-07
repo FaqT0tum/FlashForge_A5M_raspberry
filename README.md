@@ -79,19 +79,17 @@ In my setup I connected everything to the JST x-stop of the SKR Pico using the r
 
 ```bash
     [probe]
-    pin: gpio4
+    pin: !gpio4
     z_offset: -0.25
     speed: 2
     lift_speed: 5
     samples: 1
 ```
 
-### Pins 23 to 28 are used for Load cell but I have not yet completed the working connection configuration
+### Pins 23 to 28 are used for Load cell
 
-now I discovered the original connections between the boards (load cell -> FFC -> Main board).
-The load cell board uses the HX711 chip for strain gauges and a STC8G MCU for management and communication.
-As soon as I have time I need to understand how and what to communicate with it.
-
+in the diagram below are shown the flashforge elettronics between Load_cell board --> FPC --> Main board. 
+For future developments
 
 | STC8G  | FPC | N32G455 | 
 |:---:| :---:  | :---: | 
@@ -99,9 +97,6 @@ As soon as I have time I need to understand how and what to communicate with it.
 | 3   | IO-1   | PB4   |  
 | 5   | M3-TX  | PC12  | 
 | 6   | M3-RX  | PD2   |  
-
-
-the MCU on the original board (N32G455) is a clone of the STM32F103xE
 
 
 </details>
