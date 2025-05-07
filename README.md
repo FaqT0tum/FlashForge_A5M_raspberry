@@ -66,6 +66,26 @@ Connection diagram to reuse the original FFC and adapt it to the new MCU with a 
 ![](IMG/breakout_bed.png)
 ![](IMG/breakout_ph.jpg)
 
+### UPDATE: I was able to use the load cell system as a probe but without all the cell auto-calibration system without rebooting the board.
+very simply, just connect the cables like this:
+
+| FPC  | MCU |  
+|:---:| :---:  |
+| GND   | GND | 
+| VCC   | 5V | 
+| IO-1   | endstop pin | 
+
+In my setup I connected everything to the JST x-stop of the SKR Pico using the reverse gpio4 pin (!)
+
+```bash
+    [probe]
+    pin: gpio4
+    z_offset: -0.25
+    speed: 2
+    lift_speed: 5
+    samples: 1
+```
+
 ### Pins 23 to 28 are used for Load cell but I have not yet completed the working connection configuration
 
 now I discovered the original connections between the boards (load cell -> FFC -> Main board).
@@ -82,26 +102,6 @@ As soon as I have time I need to understand how and what to communicate with it.
 
 
 the MCU on the original board (N32G455) is a clone of the STM32F103xE
-
-### UPDATE: I was able to use the load cell system as a probe but without all the cell auto-calibration system without rebooting the board.
-very simply, just connect the cables like this:
-
-| FPC  | MCU |  
-|:---:| :---:  |
-| GND   | GND | 
-| VCC   | 5V | 
-| IO-1   | endstop pin | 
-
-In my setup I connected everything to the JST x-stop of the SKR Pico using the reverse gpio4 pin (!)
-
-```bash
-    [probe]
-    pin: gpio22
-    z_offset: -0.25
-    speed: 2
-    lift_speed: 5
-    samples: 1
-```
 
 
 </details>
