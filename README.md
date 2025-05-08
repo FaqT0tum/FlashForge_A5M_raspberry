@@ -33,7 +33,6 @@ The project will aim to completely replace all the electronics, leaving the orig
 - [Install Klipper (Kiauh)](https://github.com/dw-0/kiauh)
 - [CanBus](https://github.com/FaqT0tum/FlashForge_A5M_raspberry/blob/main/canbus.md)
 
-the head cap will also be recreated to make it safer and more aesthetically beautiful
 
 ## Electronics
 
@@ -118,4 +117,4 @@ otherwise it will hit the back of the printer
 </details>
 
 
-The head cap will also be recreated to make it safer and more aesthetically 
+## The head cap will also be recreated to make it safer and more aesthetically 
