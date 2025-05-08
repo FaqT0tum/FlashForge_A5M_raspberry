@@ -78,7 +78,7 @@ Now to make sure that U2C has the right firmware we need to flash it with the la
 
 # EBB36 Flashing
 
-## Building Katapult (formerly known as CanBoot)
+### Building Katapult (formerly known as CanBoot)
 
 1. Clone the Katapult repository to your pi
     ```bash
@@ -105,7 +105,7 @@ Now to make sure that U2C has the right firmware we need to flash it with the la
     ```
     ![image](IMG/CanBootFirmware.png)
 
-## Flashing Katapult
+### Flashing Katapult
 
 1. Add a jumper as shown in the image below so the board can be powered via a USB connection
     ![image](IMG/EBBButtons.png)
@@ -132,7 +132,7 @@ Now to make sure that U2C has the right firmware we need to flash it with the la
 
     ![image](IMG/EBB120.png)
 
-## Verifying you see Katapult and flashing Klipper to the EBB
+### Verifying you see Katapult and flashing Klipper to the EBB
 
 At this point, after checking twice that everything is connected correctly, power up the printer and SSH into the Pi.
 
