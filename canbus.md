@@ -1,4 +1,4 @@
-### Now we will proceed to the configuration and installation of the Canbus U2C and EBB36 boards
+# Configuration and installation of the Canbus U2C and EBB36 boards
 The guide is based on Erik Zimmerman's, not because it is wrong, but to optimize it based on my experience and to minimize the problems I encountered.
 The original guide can be found [here](https://github.com/EricZimmerman/VoronTools/blob/main/EBB_CAN.md) 
 
