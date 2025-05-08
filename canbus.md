@@ -74,7 +74,7 @@ Now to make sure that U2C has the right firmware we need to flash it with the la
     - Success
 3. ADD THE JUMPER for the 120 ohm resistor to the U2C and set the U2C aside
     
-    ![image](IMG/ebb/U2C120.png)
+    ![image](IMG/U2C120.png)
 
 # EBB36 Flashing
 
@@ -93,7 +93,7 @@ Now to make sure that U2C has the right firmware we need to flash it with the la
     ```
     
 3. Starting from the top, make your firmware selections look exactly like the image below
-    ![image](IMG/ebb/CanBootConfig.png)
+    ![image](IMG/CanBootConfig.png)
 
     NOTE: For Status LED GPIO Pin, be sure to enter **PA13**
     
@@ -103,12 +103,12 @@ Now to make sure that U2C has the right firmware we need to flash it with the la
     make clean
     make
     ```
-    ![image](IMG/ebb/CanBootFirmware.png)
+    ![image](IMG/CanBootFirmware.png)
 
 ### Flashing Katapult
 
 1. Add a jumper as shown in the image below so the board can be powered via a USB connection
-    ![image](IMG/ebb/EBBButtons.png)
+    ![image](IMG/EBBButtons.png)
 
 2. Connect your device to your Pi via USB
 3. Press and hold the `RESET` and `BOOT` buttons down (button locations shown in step 1)
@@ -125,12 +125,12 @@ Now to make sure that U2C has the right firmware we need to flash it with the la
     ```
 7. The board will now be flashed. It will look similar to what is shown below. NOTE: If you see any mention of an error after the `File downloaded successfully` message, it can be ignored.
 
-    ![image](IMG/ebb/CanFlashOk.png)
+    ![image](IMG/CanFlashOk.png)
     
 8. Unplug the board from USB and remove the USB jumper you installed for step 1
 9. ADD THE JUMPER for the 120 ohm resistor to the EBB
 
-    ![image](IMG/ebb/EBB120.png)
+    ![image](IMG/EBB120.png)
 
 # Verifying you see Katapult and flashing Klipper to the EBB
 
@@ -139,7 +139,7 @@ At this point, after checking twice that everything is connected correctly, powe
 1. Change directories into the klipper directory via `cd ~/klipper`
 2. type `make menuconfig` and adjust things so it looks like the screenshot below
 
-    ![image](IMG/ebb/EBBKlipper.png)
+    ![image](IMG/EBBKlipper.png)
 
 3. Exit, saving the changes, then build klipper by typing `make`
 4. Find your UUID by running this command:
