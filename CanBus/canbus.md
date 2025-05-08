@@ -62,7 +62,8 @@ If no user or password has been chosen you can use the default ones of the raspb
 
 # U2C Flashing
 
-Now to make sure that U2C has the right firmware we need to flash it with the latest version available [here](https://github.com/Arksine/CanBoot/issues/44#issuecomment-1381555466)
+Now to make sure that U2C has the right firmware we need to flash it with the correct version available [here](https://github.com/FaqT0tum/FlashForge_A5M_raspberry/blob/main/CanBus/G0B1_U2C_V2.zip)
+
 
 1. The steps to flash this firmware are (taken from above link):
     - Download the STM32 CubePROG [here](https://www.st.com/en/development-tools/stm32cubeprog.html) 
