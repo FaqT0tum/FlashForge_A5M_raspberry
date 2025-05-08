@@ -16,6 +16,9 @@ I recommend doing everything outside of the printer to make the various steps th
 
 # Raspberry setup
 
+First we need to access the raspberry from the PC via SSH, to do this we will use Bitvise, entering the IP address that was assigned to the raspberry by the Router, in port we enter (22), username and password chosen during the creation of Raspberry OS.
+If no user or password has been chosen you can use the default ones of the raspberry (User: pi / Password: raspberry). It is recommended to change at least the password at the first boot
+
 1. Use mkdir to create a new folder with the command `sudo mkdir /etc/network/interfaces.d`
 2. Use nano to create a new file with the command `sudo nano /etc/network/interfaces.d/can0`
 3. Add the following code
