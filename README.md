@@ -128,7 +128,7 @@ For future developments
 <summary>Headtool board</summary>
 
 
-For the assembly of the Head board requires a modification to the original Micro molex 2x2 90deg connector of the ebb36 with a straight one. 
+### For the assembly of the Head board requires a modification to the original Micro molex 2x2 90deg connector of the ebb36 with a straight one. 
 otherwise it will hit the back of the printer
 
 ![](IMG/head_comp_ph.jpg)
