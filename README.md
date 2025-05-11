@@ -136,7 +136,7 @@ For future developments
 
 </details>
 
-### the above entries are expandable, click on the titles
+### the above entries are expandable, click on the arrows
 
 # Social
 
