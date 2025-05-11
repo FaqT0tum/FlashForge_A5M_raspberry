@@ -81,7 +81,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 <summary>Heat Bed Wiring</summary>
 
 
-Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout 30p (1mm)
+### Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout 30p (1mm)
 
 ![](IMG/breakout_bed.png)
 ![](IMG/breakout_ph.jpg)
@@ -129,7 +129,7 @@ For future developments
 
 
 ### For the assembly of the Head board requires a modification to the original Micro molex 2x2 90deg connector of the ebb36 with a straight one. 
-otherwise it will hit the back of the printer
+### Otherwise it will hit the back of the printer
 
 ![](IMG/head_comp_ph.jpg)
 ![](IMG/micromolex.jpg)
@@ -137,6 +137,8 @@ otherwise it will hit the back of the printer
 ![](IMG/endstop_wiring.png)
 
 </details>
+
+### the above entries are expandable, click on the titles
 
 # Social
 
