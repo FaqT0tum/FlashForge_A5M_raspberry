@@ -86,6 +86,17 @@ very simply, just connect the cables like this:
 | VCC   | 5V | 
 | IO-1   | endstop pin | 
 
+### Example
+
+```bash
+    [filament_switch_sensor runout_sensor]
+    pause_on_runout: False
+    switch_pin: !gpio3
+    event_delay: 1.0
+    runout_gcode:
+        _FILAMENT_RUNOUT_EVENT
+```
+
 In my setup I connected everything to the JST x-stop of the SKR Pico using the reverse gpio4 pin (!)
 
 ```bash
