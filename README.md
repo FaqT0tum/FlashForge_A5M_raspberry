@@ -33,8 +33,6 @@ The project will aim to completely replace all the electronics, leaving the orig
 - [Install Klipper (Kiauh)](https://github.com/dw-0/kiauh)
 - [CanBus](https://github.com/FaqT0tum/FlashForge_A5M_raspberry/blob/main/CanBus/canbus.md)
 
-### The macro.cfg file is taken and modified the original Flashforge one for my laziness, if you find problems create a post in the section (issues) for possible solutions :)
-
 ## Electronics
 
 <details>
