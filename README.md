@@ -33,6 +33,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 - [Install Klipper (Kiauh)](https://github.com/dw-0/kiauh)
 - [CanBus](https://github.com/FaqT0tum/FlashForge_A5M_raspberry/blob/main/CanBus/canbus.md)
 
+### The macro.cfg file is taken and modified the original Flashforge one for my laziness, if you find problems create a post in the section (issues) for possible solutions :)
 
 ## Electronics
 
@@ -118,3 +119,15 @@ otherwise it will hit the back of the printer
 
 
 ## The head cap will also be recreated to make it safer and more aesthetically 
+
+# Social
+
+- [Instagram](https://www.instagram.com/faq_t0tum/)
+- [Discord](https://discord.gg/tgut7grRTV)
+- [YouTube](https://www.youtube.com/channel/UCHJ_528ZI0BcSU-QA8kIJlg)
+- [PrusaPrinter](https://www.prusaprinters.org/social/218145-faqtotum/about)
+
+# Buy me a coffee
+
+The ORBION project is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
+[PayPal](https://www.paypal.me/MattiaRusso308?locale.x=it_IT)
