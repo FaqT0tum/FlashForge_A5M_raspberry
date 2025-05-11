@@ -56,6 +56,12 @@ The project will aim to completely replace all the electronics, leaving the orig
 
 ![](IMG/fil_sens_ph.jpg)
 
+| Runout  | MCU |  
+|:---:| :---:  |
+| S   | Signal | 
+| V   | 5V | 
+| G   | Ground | 
+
 </details>
 
 
