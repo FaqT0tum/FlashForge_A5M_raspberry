@@ -129,5 +129,5 @@ otherwise it will hit the back of the printer
 
 # Buy me a coffee
 
-The ORBION project is OpenSource so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
+This project is Free so if you have the pleasure of supporting my next works I will be grateful fot the coffee.  
 [PayPal](https://www.paypal.me/MattiaRusso308?locale.x=it_IT)
