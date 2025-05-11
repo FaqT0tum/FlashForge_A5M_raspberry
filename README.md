@@ -75,7 +75,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 
 
 <details>
-<summary>Heat Bed Wiring</summary>
+<summary>Heat Bed / Load Cell</summary>
 
 
 ### Connection diagram to reuse the original FFC and adapt it to the new MCU with a FPC Breakout 30p (1mm)
