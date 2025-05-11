@@ -36,7 +36,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 ## Electronics
 
 <details>
-<summary>3D Printing Display</summary>
+<summary>Printed parts</summary>
 
 
 ![](IMG/sbc_adapt.png)
