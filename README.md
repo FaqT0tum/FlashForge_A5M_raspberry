@@ -42,8 +42,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 ![](IMG/sbc_adapt.png)
 ![](IMG/ebb36_adapt.png)
 
-### The head cap will also be recreated to make it safer and more aesthetically 
-
+### The Head shell (Coming soon)
 
 </details>
 
