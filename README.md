@@ -39,6 +39,14 @@ The project will aim to completely replace all the electronics, leaving the orig
 
 
 <details>
+<summary>Fan blower</summary>
+
+![](IMG/fan_part.png)
+
+</details>
+
+
+<details>
 <summary>Filament runout</summary>
 
 
