@@ -1,4 +1,4 @@
-# In development
+# Adventurer 5M / Pro (Core Swap)
 
 ![](IMG/main.png)
 
