@@ -1,5 +1,3 @@
-# Adventurer 5M / Pro (Core Swap)
-
 ![](IMG/main.png)
 
 The project will aim to completely replace all the electronics, leaving the original PSU, BED and head components.
