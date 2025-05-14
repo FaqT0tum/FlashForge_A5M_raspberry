@@ -43,6 +43,8 @@ The project will aim to completely replace all the electronics, leaving the orig
 
 ![](IMG/fan_part.png)
 
+### Note: for the remaining FANS, the poles in the JST connectors must be reversed to adapt them to the SKR Pico
+
 </details>
 
 
