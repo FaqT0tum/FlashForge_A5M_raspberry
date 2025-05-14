@@ -40,7 +40,7 @@ The project will aim to completely replace all the electronics, leaving the orig
 
 
 ![](IMG/sbc_adapt.png)
-![](IMG/ebb36_adapt.png)
+![](IMG/headcap_part.png)
 
 ### The Head shell (Coming soon)
 
