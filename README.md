@@ -128,7 +128,6 @@ For future developments
 
 ### For the assembly of the Head board requires a modification to the original Micro molex 2x2 90deg connector of the ebb36 with a straight one, Otherwise it will hit the back of the printer
 
-![](IMG/head_comp_ph.jpg)
 ![](IMG/micromolex.jpg)
 ![](IMG/head_ph.jpg)
 ![](IMG/endstop_wiring.png)
