@@ -107,7 +107,6 @@ In my setup I connected everything to the JST x-stop of the SKR Pico using the r
     samples: 1
 ```
 
-### Pins 23 to 28 are used for Load cell
 
 in the diagram below are shown the flashforge elettronics between Load_cell board --> FPC --> Main board. 
 For future developments
