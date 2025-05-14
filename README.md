@@ -127,7 +127,8 @@ For future developments
 ![](IMG/headcap.png)
 ![](IMG/headcap_inner.jpg)
 ![](IMG/headcap_side.jpg)
-![For the assembly of the Had board requires a modification to the original Micro molex 2x2 90deg connector of the ebb36 with a straight one, Otherwise it will hit the back of the printer](IMG/micromolex.jpg)
+![](IMG/micromolex.jpg)
+###For the assembly of the Had board requires a modification to the original Micro molex 2x2 90deg connector of the ebb36 with a straight one, Otherwise it will hit the back of the printer
 ![](IMG/head_ph.jpg)
 ![](IMG/endstop_wiring.png)
 
